@@ -1,0 +1,8 @@
+streamlit==1.32.0
+langchain==0.1.15
+langchain-google-genai==0.0.9
+wikipedia==1.4.0
+youtube-transcript-api==0.6.1
+python-dotenv==1.0.1
+requests==2.31.0
+sentence-transformers==2.5.1
