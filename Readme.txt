@@ -24,7 +24,7 @@ An intelligent educational companion powered by Google's Gemini model and LangCh
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-study-assistant.git
+   git clone https://github.com/Praveena1307/AI-STUDY-ASSISTANT.git
    cd ai-study-assistant
    ```
 
